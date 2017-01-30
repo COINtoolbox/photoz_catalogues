@@ -6,6 +6,7 @@ Teddy will never be Happy*.
 
 This is one of the products of the third edition of the [COIN Residence Program](http://iaacoin.wix.com/crp2016), which took place in August/2016 in Budapest (Hungary) . 
 
+Any questions/suggestions should be sent to iaa.coin@gmail.com .
 
 
 ## *Teddy* 
