@@ -16,7 +16,7 @@ A general overview of both catalogues is given bellow. Check the individual fold
 
 This catalogue was designed to isolate the effect of limited spectroscopic sample coverage in colour/magnitude space.
 
-It is constructed from the [SDSS DR12](http://www.sdss.org/dr12/) spectroscopic sample and is maintained by [Chien-An Lin](http://linc.tw/) (CEA, France) 
+It is constructed from the [SDSS DR12](http://www.sdss.org/dr12/) spectroscopic sample and is maintained by [Chieh-An Lin](http://linc.tw/) (CEA, France) 
 
 ## *Happy*
 
