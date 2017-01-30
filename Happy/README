@@ -23,13 +23,13 @@ The machine learning catalogue files
 
 	id: SDSS ObjID
 	mag_r: dered_r magnitude
-	u-g to i-z: respective dereddened colours
+	u-g to i-z: respective dereddened colour
 	z_spec: spectroscopic redshift
-	feat1: mag_r scaled to have 0 mean and 1 stdev (scaling done in the SDSS DR12 spectro sample)
-	feat2: u-g colour scaled similarly
-	feat3: g-r colour scaled similarly
-	feat4: r-i colour scaled similarly
-	feat5: i-z colour scaled similarly
+	feat1: mag_r normalized to have 0 mean and 1 stdev (computed for the SDSS DR12 spectro sample)
+	feat2: u-g colour normalized similarly
+	feat3: g-r colour normalized similarly
+	feat4: r-i colour normalized similarly
+	feat5: i-z colour normalized similarly
 	
 	
 The template fitting catalogue files
