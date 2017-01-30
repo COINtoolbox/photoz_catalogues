@@ -1,2 +1,1 @@
-![](https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png)
-
+<img src="https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png" width="48">
