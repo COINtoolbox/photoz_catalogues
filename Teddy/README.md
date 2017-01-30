@@ -26,7 +26,7 @@ All objects in this catalog were taken from the SDSS DR12 spectroscopic sample. 
 	*mag_r*: dered_r magnitude  
 	*u-g* to *i-z*: respective dereddened colours  
 	*z_spec*: spectroscopic redshift  
-	*feat1*: mag_r normalized to have 0 mean and 1 stdev (mean and stdev were computed for the Teddy A set)
+	*feat1*: mag_r normalized to have 0 mean and 1 stdev (mean and stdev were computed for the Teddy A set)  
 	*feat2*: u-g colour normalized similarly  
 	*feat3*: g-r colour normalized similarly  
 	*feat4*: r-i colour normalized similarly  
