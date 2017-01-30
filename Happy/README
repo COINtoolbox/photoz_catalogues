@@ -1,1 +1,12 @@
 Happy
+
+This galaxy catalogue has been created to test how photo-z estimation is affected by a differing photometric error (and feature) distribution between photometric and spectroscopic samples, resembling the case of SDSS DR12.
+The catalogue has four subsamples, Happy A,B,C and D.
+
+Happy A: resembles the SDSS DR12 spectroscopic sample in the distribution of all observables. This should be used as a training/calibration set.
+
+Happy B: the same as Happy A, but this should act as the spectroscopic validation set.
+
+Happy C: has the same range of photometric errors as Happy A/B, and essentially the same colour/magnitude coverage, but the distribution of errors is much more weighted towards high errors. Also, the feature distribution closely resembles the SDSS DR12 photometric sample within the coverage. This should be another validation set.
+
+Happy D: resembles the SDSS DR12 photometric sample in the distribution of all observables. This is the third validation set.
