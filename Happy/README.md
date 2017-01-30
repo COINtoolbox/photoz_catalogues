@@ -55,5 +55,7 @@ All magnitudes are SDSS dereddened modelMag magnitudes (dered_[ugriz]).
 	
 	Single column, a density ratio approach to calculate weight for each galaxy in the happy_A training sample, in order. This used the procedure described in [Kremer et al, 2015](http://adsabs.harvard.edu/abs/2015A%26C....12...67K). The corresponding code can be found in [this repository](https://github.com/kremerj/nnratio).  
 	
-	The [BCD] tag corresponds to the set of weights that should be used when approximating the [BCD] validation sets, respectively.  
+	The [BCD] tag corresponds to the set of weights that should be used when approximating the [BCD] validation sets, respectively.
+
+	The extended representative sets for A/B, C, and D, which were used for the computation of the weights, can be downloaded [here]().
 
