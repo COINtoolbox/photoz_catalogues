@@ -10,7 +10,7 @@ The catalogue has four subsamples: Teddy A,B,C and D.
 
 * **Teddy B**: the same as Teddy A, but this should act as the spectroscopic validation set.
 
-* **Teddy C**: has the coverage in magnitude/color space as Teddy A/B but following a different underlying distribution.  This should be another validation set.
+* **Teddy C**: has the same coverage in magnitude/color space as Teddy A/B but follows a different underlying distribution.  This should be another validation set.
 
 * **Teddy D**: has a larger coverage in magnitude/color space when compared to Teddy A/B. This is the third validation set.
 
@@ -26,11 +26,11 @@ All objects in this catalog were taken from the SDSS DR12 spectroscopic sample. 
 	*mag_r*: dered_r magnitude  
 	*u-g* to *i-z*: respective dereddened colours  
 	*z_spec*: spectroscopic redshift  
-	*feat1*: mag_r scaled to have 0 mean and 1 stdev (scaling done in the SDSS DR12 spectro sample)  
-	*feat2*: u-g colour scaled similarly  
-	*feat3*: g-r colour scaled similarly  
-	*feat4*: r-i colour scaled similarly  
-	*feat5*: i-z colour scaled similarly  
+	*feat1*: mag_r normalized to have 0 mean and 1 stdev (mean and stdev were computed for the Teddy A set)
+	*feat2*: u-g colour normalized similarly  
+	*feat3*: g-r colour normalized similarly  
+	*feat4*: r-i colour normalized similarly  
+	*feat5*: i-z colour normalized similarly  
 	
 	
 ## The template fitting catalogue files
@@ -53,7 +53,7 @@ All objects in this catalog were taken from the SDSS DR12 spectroscopic sample. 
 
 * weights_for_[BCD]
 	
-	Single column, a density ratio approach to calculate weight for each galaxy in the happy_A training sample, in order. This used the procedure described in [Kremer et al, 2015](http://adsabs.harvard.edu/abs/2015A%26C....12...67K). The corresponding code can be found in [this repository](https://github.com/kremerj/nnratio).  
+	Single column, a density ratio approach was used to calculate a weight for each galaxy in the happy_A training sample, in order. The procedure is described in [Kremer et al, 2015](http://adsabs.harvard.edu/abs/2015A%26C....12...67K). The corresponding code can be found in [this repository](https://github.com/kremerj/nnratio).  
 	
 	The [BCD] tag corresponds to the set of weights that should be used when approximating the [BCD] validation sets, respectively.  
 
