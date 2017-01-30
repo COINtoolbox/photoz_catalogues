@@ -9,6 +9,8 @@ This is one of the products of the third edition of the [COIN Residence Program]
 Any questions/suggestions should be sent to iaa.coin@gmail.com .
 
 
+A general overview of both catalogues is given bellow. Check the individual folders for detailed information on the files presented here. 
+
 ## *Teddy* 
 
 
