@@ -57,5 +57,6 @@ All magnitudes are SDSS dereddened modelMag magnitudes (dered_[ugriz]).
 	
 	The [BCD] tag corresponds to the set of weights that should be used when approximating the [BCD] validation sets, respectively.
 
-	The extended representative sets for A/B, C, and D, which were used for the computation of the weights, can be downloaded [here]().
+	The extended representative sets for A/B, C, and D, which were used for the computation of the weights, can be downloaded [here](https://www.dropbox.com/s/tvj7oeyhblgjnnx/happy_extended.zip?dl=0).
+
 
