@@ -2,9 +2,9 @@
 
 ## The catalogue
 
-This galaxy catalogue has been created to test how photo-z estimation is affected by a differing photometric error (and feature) distribution between photometric and spectroscopic samples, resembling the case of [SDSS-DR12](http://www.sdss.org/dr12/).
+This galaxy catalogue has been created to test how photo-z estimation is affected by a differing photometric error (and feature) distribution between photometric and spectroscopic samples, resembling the case of [SDSS DR12](http://www.sdss.org/dr12/). Refer to [Beck et al., 2017](https://arxiv.org/abs/1701.08748) for more details.
 
-The catalogue has four subsamples: Happy A,B,C and D.
+The catalogue has four subsamples: Happy A, B, C and D.
 
 * **Happy A**: resembles the SDSS DR12 spectroscopic sample in the distribution of all observables. This should be used as a training/calibration set.
 
@@ -12,7 +12,7 @@ The catalogue has four subsamples: Happy A,B,C and D.
 
 * **Happy C**: has the same range of photometric errors as Happy A/B, and essentially the same colour/magnitude coverage, but the distribution of errors is much more weighted towards high errors. Also, the feature distribution closely resembles the SDSS DR12 photometric sample within the coverage. This should be another validation set.
 
-* **Happy D**: resembles the SDSS-DR12 photometric sample in the distribution of all observables. This is the third validation set.
+* **Happy D**: resembles the SDSS DR12 photometric sample in the distribution of all observables. This is the third validation set.
 
 All magnitudes are SDSS dereddened modelMag magnitudes (dered_[ugriz]).
 	

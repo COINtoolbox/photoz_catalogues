@@ -4,9 +4,9 @@
 
 This galaxy catalogue has been created isolate the effect of incomplete spectroscopic sample coverage in the determination of photometric redshifts.
 
-The catalogue has four subsamples: Teddy A,B,C and D.
+The catalogue has four subsamples: Teddy A, B, C and D.
 
-* **Teddy A**: was randomly drawn from the [SDSS DR12](http://www.sdss.org/dr12/) spectroscopic sample, observing the selection criteria described in [Beck et al, 2016]() - section2.1. This should be used as a training/calibration set.
+* **Teddy A**: was randomly drawn from the [SDSS DR12](http://www.sdss.org/dr12/) spectroscopic sample, observing the selection criteria described in [Beck et al., 2017](https://arxiv.org/abs/1701.08748) - section2.1. This should be used as a training/calibration set.
 
 * **Teddy B**: the same as Teddy A, but this should act as the spectroscopic validation set.
 
