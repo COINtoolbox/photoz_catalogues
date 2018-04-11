@@ -1,4 +1,4 @@
-# *Teddy* and *Happy* photo-z catalogues <img  align="right" src="https://raw.githubusercontent.com/COINtoolbox/photoz_catalogues/master/images/coin.png" width="200"> 
+#  <img  align="right" src="https://github.com/COINtoolbox/DRACULA/blob/master/images/coin.png" width="300">  *Teddy* and *Happy* photo-z catalogues
 
 
 This repository contains the photometric redshift catalogues presented in [Beck et al., 2017](https://arxiv.org/abs/1701.08748) - *On the realistic validation of photometric redshifts, or why
